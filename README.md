@@ -1,1 +1,1 @@
-Use Genetic Algorithm to solve n- queen’s problem.
+Use Genetic Algorithm to solve N-Queen’s problem.
